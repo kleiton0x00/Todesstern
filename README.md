@@ -31,7 +31,7 @@ Go back to **Positions** tab and start the attack. On the results' table, focus 
 
 # Demo
 Here is a SSTI's anomaly on Ruby (`<%` is removed):  
-![anomaly_demo](https://github.com/kleiton0x00/Todesstern/blob/main/static/Screenshot%20from%202024-03-17%2023-10-50.png)  
+![ruby_ssti_anomaly](https://github.com/kleiton0x00/Todesstern/blob/main/static/ruby_ssti_anomaly.jpg?raw=true)  
 
 # References
 https://github.com/PortSwigger/backslash-powered-scanner  
